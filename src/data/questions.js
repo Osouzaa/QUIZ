@@ -22,12 +22,7 @@ const data = [
   {
     question: "	Como se chama a parte da planta que suga os nutrientes?",
     options: ["Folha", "Caule", "Raiz", "Fruto"],
-    answer: "length",
-  },
-  {
-    question: "	Como se chama a parte da planta que suga os nutrientes?",
-    options: ["Folha", "Caule", "Raiz", "Fruto"],
-    answer: "length",
+    answer: "Raiz",
   },
   {
     question: "Qual a cor da lixeira para reciclagem do vidro? ",
