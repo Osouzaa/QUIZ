@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Quizz de milhões </h1>
+      <h1>Informática Básica </h1>
       {quizState.gameStage === "Start" && <Welcome />}
       {quizState.gameStage === "Category" && <PickCategory />}
       {quizState.gameStage === "Playing" && <Question />}
